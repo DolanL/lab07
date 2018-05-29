@@ -1,2 +1,2 @@
-https://travis-ci.org/DolanL/lab06.svg?branch=master
-# lab06
+https://travis-ci.org/DolanL/lab07.svg?branch=master
+# lab07
